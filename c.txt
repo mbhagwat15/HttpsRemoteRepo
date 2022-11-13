@@ -1,2 +1,3 @@
 This is file c`
 modify c.txt
+new changes to c.txt
